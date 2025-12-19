@@ -19,3 +19,22 @@ into the entity-centric knowledge store.
 6. **Gemini API Integration**: generates next-query suggestions under different strategies.  
 
 ---
+## 📂 Project structure
+
+Quick overview of the repository and the role of each file/folder.
+
+### Top-level
+
+| Path | Description |
+|------|-------------|
+| `README.md` | Project overview and documentation |
+| `Thesis_Enhancing_Query_Recommendations_Through_User_Behavior_Analysis.pdf` | My Thesis |
+| `Official_no_Orcid_API.ipynb` | Model 1 & 3 described in my thesis with some use cases |
+| `prova_versione_funzionante.ipynb` | Model 2 & 3 described in my thesis with some use cases |
+| `Official_Orcid_API.ipynb` | an old version where I tried a primitive version of k-LaMp with ORCID API |
+| `Datasets/User Profiles_updated.csv` | simulated User Profiles used |
+| `Datasets/poi_info_updated.csv` | POIs (points of interest) in Verona |
+| `Datasets/data_descr_en_updated.csv` | Description of the POIs of Verona |
+
+
+
